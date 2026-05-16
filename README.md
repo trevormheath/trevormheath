@@ -6,7 +6,7 @@
 - 🌱 Always learning and expanding my technical skillset
 
 ## 🚀 Projects
-- **PiggyMate** ([piggymate.org](https://piggymate.org)) - A financial application for families that helps kids save money and earn rewards through chores. Built as my capstone project.
+- **PiggyMate** - A financial application for families that helps kids save money and earn rewards through chores. Built as my capstone project.
 
 - **Integrated Group Projects (INTEX)**:
   - **HealthTracker** - A Python Django web application created for the Kidney Foundation allowing users to login, track their food intake and nutrients, and receive recipe recommendations based on their specific dietary needs. Completed within a 4-day timeframe in the fall semester of my Junior Core.
